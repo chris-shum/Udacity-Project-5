@@ -4,12 +4,12 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="44259511072077"
+    timestamp="4852126579577"
     token="3071662729459130434" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="624" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -21,18 +21,28 @@
         duration="0" />
 
     <artifact
-        location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="43282898728335" >
+    <build timestamp="4290596723082" >
         <artifact
             location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="44259511072077" >
+    <build
+        timestamp="4811170603423"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
         <artifact
             location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
+    </build>
+    <build timestamp="4852126579577" >
+        <artifact
+            location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
