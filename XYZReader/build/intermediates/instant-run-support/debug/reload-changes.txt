@@ -1,5 +1,0 @@
-CHANGED,/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$4$override.class
-CHANGED,/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$id$override.class
-CHANGED,/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$override.class
-CHANGED,/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$ViewHolder$override.class
