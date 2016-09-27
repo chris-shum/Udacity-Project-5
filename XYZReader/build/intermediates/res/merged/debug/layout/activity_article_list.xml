@@ -32,6 +32,7 @@
             android:id="@+id/toolbar"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
             android:layout_marginLeft="@dimen/list_toolbar_side_margin"
+            android:background="#000000"
             android:layout_marginRight="@dimen/list_toolbar_side_margin"
             android:layout_width="match_parent"
             android:layout_height="?actionBarSize"

@@ -1,0 +1,7 @@
+#Tue Sep 27 13:00:24 EDT 2016
+base.0=/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3e9d285107ca78c09e0247c4565b3f5a7854698c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_141f868ec0d8ad9b2e79799a39246c6ceb08cabc/classes.dex
+base.1=/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_141f868ec0d8ad9b2e79799a39246c6ceb08cabc
+file.0=/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3e9d285107ca78c09e0247c4565b3f5a7854698c/classes.dex
