@@ -23,7 +23,7 @@ import android.util.Log;
 import android.widget.ScrollView;
 
 /**
- * A custom ScrollView that can accept a scroll listener.
+ * A custom ScrollView that can accept a fragment_article_detail_scroll listener.
  */
 public class ObservableScrollView extends ScrollView {
     private Callbacks mCallbacks;

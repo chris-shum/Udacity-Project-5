@@ -4,9 +4,9 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="200095927842009"
+    timestamp="225208409094982"
     token="3071662729459130434"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -26,15 +26,34 @@
         type="RESOURCES" />
 
     <build
-        timestamp="199294549103519"
+        timestamp="222370566013676"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="200095927842009"
-        verifier="COMPATIBLE" >
+        timestamp="225067853311902"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="225208409094982"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
