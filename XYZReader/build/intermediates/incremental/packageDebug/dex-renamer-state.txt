@@ -1,4 +1,4 @@
-#Sun Oct 02 15:50:50 EDT 2016
+#Sun Oct 02 17:02:11 EDT 2016
 base.0=/Users/ShowMe/Documents/uDacity/Project5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3e9d285107ca78c09e0247c4565b3f5a7854698c
 renamed.1=classes2.dex
 renamed.0=classes.dex
