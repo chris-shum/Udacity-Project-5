@@ -1,9 +1,9 @@
-# Udacity-Project-4
+# Udacity-Project-5
 ##Make Your App Material
 
 ###Overview:
 
-Udacity's Project 4 Make Your App Material is to improve upon their "XYZ Reader: A mock RSS feed reader featuring banner photos and shocking headlines!" against the feedback provided.
+Udacity's Project 5 Make Your App Material is to improve upon their "XYZ Reader: A mock RSS feed reader featuring banner photos and shocking headlines!" against the feedback provided.
 
 User Feedback for XYZ Reader:
 
