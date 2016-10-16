@@ -15,3 +15,7 @@ Jay says:
 
 Kagure says:
 “The color scheme is really sad and I shouldn't feel sad.”
+
+##Screenshots:
+ <img src="main.png" width="400">
+ <img src="detail.png" width="400">
